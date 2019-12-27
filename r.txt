@@ -1,0 +1,12 @@
+beautifulsoup4==4.8.1
+bs4==0.0.1
+configparser==4.0.2
+lxml==4.4.2
+mysql-connector-python==8.0.18
+mysqlclient==1.4.6
+protobuf==3.11.1
+PyMySQL==0.9.3
+selenium==3.141.0
+six==1.13.0
+soupsieve==1.9.5
+urllib3==1.25.7
